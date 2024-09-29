@@ -1,4 +1,4 @@
-package com.customerflow.customer_flow;
+package com.demoapps.customerflow;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

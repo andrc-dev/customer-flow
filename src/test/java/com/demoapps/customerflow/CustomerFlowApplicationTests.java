@@ -1,4 +1,4 @@
-package com.customerflow.customer_flow;
+package com.demoapps.customerflow;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

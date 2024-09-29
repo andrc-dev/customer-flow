@@ -1,11 +1,10 @@
-package com.customerflow.customer_flow.models;
+package com.demoapps.customerflow.models;
 
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.Entity;
+
+import jakarta.persistence.*;
 
 @Entity
+@Table(name = "userjava")
 public class User {
 
     @Id
