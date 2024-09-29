@@ -1,9 +1,8 @@
-package com.customerflow.customer_flow.controllers;
+package com.demoapps.customerflow.controllers;
 
-import com.customerflow.customer_flow.models.User;
-import com.customerflow.customer_flow.services.UserService;
+import com.demoapps.customerflow.models.User;
+import com.demoapps.customerflow.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

@@ -1,7 +1,7 @@
-package com.customerflow.customer_flow.services;
+package com.demoapps.customerflow.services;
 
-import com.customerflow.customer_flow.UserRepository;
-import com.customerflow.customer_flow.models.User;
+import com.demoapps.customerflow.UserRepository;
+import com.demoapps.customerflow.models.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
